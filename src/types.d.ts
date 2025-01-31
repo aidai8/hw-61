@@ -8,4 +8,5 @@ export interface CountryDetails {
     capital: string;
     population: number;
     borders: string[];
+    flag: string;
 }
